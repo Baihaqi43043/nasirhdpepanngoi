@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(brew install:*)",
+      "Bash(for i:*)",
+      "Bash(do ffmpeg:*)",
+      "Read(//Applications/XAMPP/xamppfiles/htdocs/nasirhdpepanngoi/**)",
+      "Bash(python3 -c \":*)"
+    ]
+  }
+}
